@@ -20,7 +20,6 @@ Metodologias Ágeis de Desenvolvimento
 
 <hr>
 
-<div  align="center"> 
   <div style="display: inline_block"><br>
 <img src="https://github.com/user-attachments/assets/f6e4c9e1-6197-42f5-be4b-edc52621cc42" height="250" alt="GIF Exemplo">
    </div>
