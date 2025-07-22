@@ -1,28 +1,29 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=4e97d1&center=true&vCenter=true&random=false&width=435&lines=Bem+vindo+ao+meu+perfil" alt="" /></a>
+# 👨🏽‍💻 Matheus Alcântara
 
-<a href="https://github.com/MatheusAlcn">
+**`Desenvolvedor Back-end`**
+
+👋 Olá, eu sou o Matheus Alcântara  
+
+Sou apaixonado por tecnologia e sempre em busca de aprendizado e novos desafios.  
+Acredito no poder da inovação para transformar ideias em soluções que realmente fazem a diferença.  
+
+🎓 Formado em **Análise e Desenvolvimento de Sistemas** e atualmente cursando **Engenharia de Software**, venho construindo minha trajetória com foco em evolução constante e colaboração.
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postgres,docker,git" />
+
+
+
+### 📊 Estatísticas
+
+<p>
+  <a href="https://github.com/MatheusAlcn">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=MatheusAlcn&show_icons=true&theme=transparent&include_all_commit=true&count_private=true"/>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAlcn&layout=compact&langs_count=16&theme=transparent"/><br>
 
-# 💫 About Me:
-👋 Olá, sou Matheus Alcântara, um entusiasta da tecnologia em constante busca por aprendizado e crescimento na área de desenvolvimento Java Full Stack. Estou empenhado em desenvolver minhas habilidades e construir uma carreira sólida nesta área emocionante e dinâmica.<br>
-
-🛠️ Tecnologias em Estudo
-Linguagens: Java |
-Frameworks: Spring Boot |
-Bancos de Dados: MySQL |
-Ferramentas: Git
-
-🌱 Aprendendo Atualmente
-Desenvolvimento Web Full Stack |
-Estrutura de Dados e Algoritmos |
-Metodologias Ágeis de Desenvolvimento
-
-<hr>
-
-  <div style="display: inline_block"><br>
-<img src="https://github.com/user-attachments/assets/f6e4c9e1-6197-42f5-be4b-edc52621cc42" height="250" alt="GIF Exemplo">
-   </div>
           
           
           
