@@ -17,13 +17,6 @@ Acredito no poder da inovação para transformar ideias em soluções que realme
 
 
 
-### 📊 Estatísticas
-
-<p>
-  <a href="https://github.com/MatheusAlcn">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=MatheusAlcn&show_icons=true&theme=transparent&include_all_commit=true&count_private=true"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAlcn&layout=compact&langs_count=16&theme=transparent"/><br>
-
           
           
           
