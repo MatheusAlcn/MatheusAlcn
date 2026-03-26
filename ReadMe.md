@@ -1,13 +1,16 @@
 # 👨🏽‍💻 Matheus Alcântara
 
-**`Desenvolvedor Back-end`**
+**Desenvolvedor Back-end | Java**
 
-👋 Olá, eu sou o Matheus Alcântara  
+👋 Olá! Eu sou o Matheus.
 
-Sou apaixonado por tecnologia e sempre em busca de aprendizado e novos desafios.  
-Acredito no poder da inovação para transformar ideias em soluções que realmente fazem a diferença.  
+Sou apaixonado por tecnologia e por resolver problemas através da programação. 
+Tenho foco em desenvolvimento **Back-end com Java**, criando APIs, sistemas e soluções escaláveis.
 
-🎓 Formado em **Análise e Desenvolvimento de Sistemas** e atualmente cursando **Engenharia de Software**, venho construindo minha trajetória com foco em evolução constante e colaboração.
+🎓 Formado em **Análise e Desenvolvimento de Sistemas**  
+📚 Atualmente cursando **Engenharia de Software**
+
+🚀 Estou sempre em busca de aprendizado contínuo, novos desafios e oportunidades para evoluir como desenvolvedor.
 
 ---
 
